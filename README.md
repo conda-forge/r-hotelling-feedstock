@@ -1,11 +1,11 @@
-About r-hotelling
-=================
+About r-hotelling-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hotelling-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jmcurran/Hotelling
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hotelling-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of R functions which implements Hotelling's T^2 test and some variants of it. Functions are also included for Aitchison's additive log ratio and centred log ratio transformations.
 
