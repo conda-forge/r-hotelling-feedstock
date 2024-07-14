@@ -1,6 +1,5 @@
 {% set version = '1.0-8' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-hotelling
@@ -13,8 +12,7 @@ source:
   sha256: 51239a4617852ea8bd8e5b0106b5f6cf9fa93d02def4535b388d386ed5e8a213
 
 build:
-  merge_build_host: True  # [win]
-  number: 1
+  number: 2
   noarch: generic
   rpaths:
     - lib/R/lib/
